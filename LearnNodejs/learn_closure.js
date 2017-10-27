@@ -20,4 +20,4 @@ var object1 = {
         };
     }
 };
-console.log(object1.getNameFunc());
+console.log(object1.getNameFunc()());
